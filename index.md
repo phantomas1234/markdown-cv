@@ -10,6 +10,21 @@ Associate Professor, Technical University of Denmark
 | <a href="https://www.dtu.dk/english/service/phonebook/person?id=87972&tab=1">DTU address book</a>
 </div>
 
+## Research interests
+
+Mathematical modeling and simulation of living systems, lab automation
+
+## Occupation
+
+`Since November 2019`
+__Associate Professor__, DTU Bioengineering, Technical University of Denmark, Denmark.
+
+`Since July 2016`
+__Senior Researcher__, The Novo Nordisk Foundation Center for Biosustainability, Technical University of Denmark, Denmark.
+
+`August 2013 - June 2016`
+__Research Scientist__, The Novo Nordisk Foundation Center for Biosustainability, Technical University of Denmark, Denmark.
+
 
 ## Education
 
@@ -23,31 +38,6 @@ __Diplomin Biology (equivalent to M.Sc.),Technical University of Darmstadt,Germa
 __Vordiplomin Biology (equivalent to B.Sc.),Technical University of Darmstadt,Germany.__
 
 Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
-
-## Education
-
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
 
 
 
@@ -80,21 +70,8 @@ etc. etc. etc.
 Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
 
 
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: October 2019 -->
 
 

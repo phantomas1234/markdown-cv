@@ -1,17 +1,26 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Nikolaus Sonnenschein's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Nikolaus Sonnenschein
+Associate Professor, Technical University of Denmark
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="nikosonnensche.in">nikosonnensche.in</a>
+| <a href="https://www.dtu.dk/english/service/phonebook/person?id=87972&tab=1">DTU address book</a>
 </div>
 
 
-## Currently
+## Education
+
+`January 2011`
+__Ph.D.in Bioinformatics,Jacobs University Bremen, Germany,with distinction.__
+
+`July 2007`
+__Diplomin Biology (equivalent to M.Sc.),Technical University of Darmstadt,Germany,with distinction(overall grade: 1.0; very good; grade scale: 1.0 – 6.0).__
+
+`May 2004`
+__Vordiplomin Biology (equivalent to B.Sc.),Technical University of Darmstadt,Germany.__
 
 Standing on the shoulders of giants
 

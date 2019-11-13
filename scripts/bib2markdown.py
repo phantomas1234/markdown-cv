@@ -27,6 +27,7 @@ markdown = re.sub('(\[\d+\])', '\n\\1', markdown)
 # markdown, _ = re.subn(r'\\textbf \\underline N\\., Sonnenschein', '**<u>N., Sonnenschein</u>**', markdown)
 markdown, _ = re.subn(r'\\\\textbf.*underline.*Sonnenschein', '**<u>N. Sonnenschein</u>**', markdown)
 markdown, _ = re.subn(r'\\\\textbf.*Sonnenschein', '**N. Sonnenschein**', markdown)
+markdown, _ = re.subn(r'\\\\emph\s*', '', markdown)
 
 print(markdown)
 

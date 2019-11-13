@@ -20,9 +20,9 @@ Associate Professor at DTU Bioengineering, Computer Aided Biotechnology Group
 
 `Biology` Metabolism, Cell factories, Metabolic modeling
 
-`Software` Open Source Research Software, CAD for Biology, CI/CD, DevOps, SCRUM
+`Automation` Cloud laboratoriers, Biofoundries, Reproducible research
 
-`Automation` Cloud laboratoriers, Biofoundries, Reproducible Research
+`Software` Open Source Research Software, CAD for Biology, CI/CD, DevOps, SCRUM
 
 ## Professional Experience
 
@@ -110,12 +110,12 @@ Organization committee member and chairman, 11th Copenhagen Bioscience Conferenc
 
 ## Editorial and Peer Review Activities
 Among others, peer reviewer for PLoS Computational Biology, Bioinformatics, Genome Biology, BMC Systems Biology, BMC Evolutionary Biology, Biotechnology and Bioengineering.
-Verified Peer Review record at https://publons.com/researcher/643329/nikolaus-sonnenschein
+Verified Peer Review record at <https://publons.com/researcher/643329/nikolaus-sonnenschein>.
 Guest editor for Frontiers in Bioengineering research topic “Current challenges in modeling cellular metabolism”.
 
 ## Publications
 
-A list is also available [online](https://goo.gl/DzH3My). My name underlined indicates corresponding authorship.
+A list is also available here <https://goo.gl/DzH3My>. My name underlined indicates corresponding authorship.
 
 ### Preprints
 

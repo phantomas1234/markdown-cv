@@ -69,7 +69,7 @@ A list is also available [online](https://goo.gl/DzH3My). My name underlined ind
 
 ### Articles (last 6 years)
 
-{% include_relative publications.md %}
+{% include_relative publications-short.md %}
 
 <!-- ### Footer
 

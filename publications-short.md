@@ -103,29 +103,3 @@ Evolution reveals a glutathione\-dependent mechanism of 3\-hydroxypropionic acid
 A community\-driven global reconstruction of human metabolism\.
 *Nature biotechnology*, 31\(5\):419–425, 2013\.
 [doi:10\.1038/nbt\.2488](https://doi.org/10.1038/nbt.2488)\.  
-
-[22] **<u>N. Sonnenschein</u>**, C\. Marr, and M\.\-T\. Hütt\.
-A topological characterization of medium\-dependent essential metabolic reactions\.
-*Metabolites*, 2\(3\):632–647, 2012\.
-[doi:10\.3390/metabo2030632](https://doi.org/10.3390/metabo2030632)\.  
-
-[23] **<u>N. Sonnenschein</u>**, J\. F\. Golib Dzib, A\. Lesne, S\. Eilebrecht, S\. Boulkroun, M\.\-C\. Zennaro, A\. Benecke, and M\.\-T\. Hütt\.
-A Network Perspective on Metabolic Inconsistency\.
-*BMC systems biology*, 6\(1\):41, 2012\.
-[doi:10\.1186/1752\-0509\-6\-41](https://doi.org/10.1186/1752-0509-6-41)\.  
-
-[24] M\. E\. Beber, C\. Fretter, S\. Jain, **N. Sonnenschein**, M\. Müller\-Hannemann, and M\.\-T\. Hütt\.
-Artefacts in statistical analyses of network motifs: general framework and application to metabolic networks\.
-*Journal of the Royal Society, Interface / the Royal Society*, 9\(77\):3426–3435, 2012\.
-[doi:10\.1098/rsif\.2012\.0490](https://doi.org/10.1098/rsif.2012.0490)\.  
-
-[25] **<u>N. Sonnenschein</u>**, M\. Geertz, G\. Muskhelishvili, and M\.\-T\. Hütt\.
-Analog regulation of metabolic demand\.
-*BMC Systems Biology*, 5\(1\):40, 2011\.
-[doi:10\.1186/1752\-0509\-5\-40](https://doi.org/10.1186/1752-0509-5-40)\.  
-
-[26] **N. Sonnenschein**, M\.\-T\. Hütt, H\. Stoyan, and D\. Stoyan\.
-Ranges of control in the transcriptional regulation of Escherichia coli\.
-*BMC systems biology*, 3:119, 2009\.
-[doi:10\.1186/1752\-0509\-3\-119](https://doi.org/10.1186/1752-0509-3-119)\.  
-

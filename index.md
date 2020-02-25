@@ -20,7 +20,7 @@ Associate Professor at DTU Bioengineering, Computer Aided Biotechnology Group
 
 `Biology` Metabolism, Cell factories, Metabolic modeling
 
-`Automation` Cloud laboratoriers, Biofoundries, Reproducible research
+`Automation` Lab-automation, Cloud laboratoriers, Biofoundries, Reproducible research
 
 `Software` Open Source Research Software, CAD for Biology, CI/CD, DevOps, SCRUM
 

@@ -53,13 +53,7 @@ __Postdoctoral Researcher__, University of California, San Diego, USA
 `Sep2007 - Jan2011`
 __PhD Student__, Jacobs University Bremen, Germany
 
-`Oct2005 - Jul2006`
-__Research Assistant__, Technical University of Darmstadt, Germany
-
-`Feb2005 - Jun2006`
-__Student Assistant__, Berlin-Brandenburgische Akademie der Wissenschaften, Germany
-
-## Publications
+## Selected Publications
 
 A list is also available [online](https://goo.gl/DzH3My). My name underlined indicates corresponding authorship.
 
@@ -67,7 +61,7 @@ A list is also available [online](https://goo.gl/DzH3My). My name underlined ind
 
 {% include_relative preprints.md %} -->
 
-### Articles (last 6 years)
+### Articles
 
 {% include_relative publications-short.md %}
 

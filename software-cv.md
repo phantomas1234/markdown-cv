@@ -16,13 +16,13 @@ Associate Professor at DTU Bioengineering, Computer Aided Biotechnology Group
 <a href="mailto:niko.sonnenschein@gmail.com"><i class="fa fa-envelope"></i></a>
 </div>
 
-<!-- ## Interests
+## Interests
 
 `Biology` Metabolism, Cell factories, Metabolic modeling
 
 `Automation` Cloud laboratoriers, Biofoundries, Reproducible research
 
-`Software` Open Source Research Software, CAD for Biology, CI/CD, DevOps, SCRUM -->
+`Software` Open Source Research Software, CAD for Biology, CI/CD, DevOps, SCRUM
 
 ## Professional Experience
 
@@ -58,40 +58,9 @@ __Diplom in Biology__ (equivalent to M.Sc.), Technical University of Darmstadt, 
 `May2004`
 __Vordiplom in Biology__ (equivalent to B.Sc.), Technical University of Darmstadt, Germany
 
-## Teaching Experience
-
-### Lectures and Course
-
-`2020`
-__27410 Computer-aided cell factory design__, Technical University of Denmark, Lyngby, lecturer, annually
-
-`2016-2019`
-__29901 Scientific Computing for Life Scientists and Metabolic Modeling for Cell Factory Design__, Technical University of Denmark, Lyngby, lecturer, annually
-
-`2016, 2018`
-__27750 Advanced Experimental Synthetic Biology for Cell Factories__, Technical University of Denmark, Lyngby, lecturer
-
-`2012-2013`
-__BENG 123. Systems Biology and Bioengineering__, University of California, San Diego, USA, instructor,annually
-
-`2010`
-__Bioinformatics and Computational Biology I__, Jacobs University Bremen, Germany, substitute lecturer 2010, occasionally
-
-<!-- `2007-2010`
-__Advanced Bioinformatics Laboratory Course III: Genomics & Elementary Systems Biology__, Jacobs University Bremen, Germany, instructor 2007 – 2010, annually -->
-
 ## Oral Conference Presentations
 
-`Oct2020`
-Invited speaker, KIChE Fall Meeting International Symposium, Korean Institute of Chemical Engineers, e-conference
-
-`Sep2020`
-Invited speaker, 1st VH Online Yeast conference, Versuchsanstalt der Hefeindustrie e.BV., e-conference
-
-`Apr2020`
-Invited speaker, BioProcess International Europe, e-conference
-
-`Nov2019`
+`Nov 2019`
 Invited speaker, European Summit of Industrial Biotechnology (ESIB 2019), Graz, Austria
 
 `Oct2018`
@@ -123,12 +92,31 @@ Member of the International Programme Committee of the Foundation of Systems Bio
 `2016`
 Organization committee member and chairman, 11th Copenhagen Bioscience Conference, Favrholm, Denmark, “Data-driven Biotechnology – bench, bioreactor and bedside”. 
 
-## Editorial and Peer Review Activities
-Among others, peer reviewer for PLoS Computational Biology, Bioinformatics, Genome Biology, BMC Systems Biology, BMC Evolutionary Biology, Biotechnology and Bioengineering.
-Verified Peer Review record at <https://publons.com/researcher/643329/nikolaus-sonnenschein>.
-Guest editor for Frontiers in Bioengineering research topic “Current challenges in modeling cellular metabolism”.
+## Software contributions
 
-## Publications
+Detailed contributions available also via <https://github.com/phantomas1234>.
+
+`COBRApy`
+Constraint-based modeling of genome-scale metabolic models in Python. We have been maintaining cobrapy for almost four years now. In that time we have been able to engage the community to get involved and make contributions. Cobrapy has furthermore become the basis for a number of more specialized packages (<https://opencobra.github.io/cobrapy/packages/>). 228 GitHub stars (<https://github.com/opencobra/cobrapy>).
+
+
+`memote`
+A test-suite and quality assessment tool for genome-scale metabolic models written in Python. The tests have been developed together with the COBRA community to achieve a community-wide consensus. A pre-print is available at bioRxiv (<https://doi.org/10.1101/350991>). The manuscript has just been accepted in Nature Biotechnology. 53 GitHub stars (<https://github.com/opencobra/memote>).
+
+
+`cameo`
+A Python package for computer aided metabolic engineering and optimization of cell factories. Cameo implements state-of-the-art methods for enumerating and prioritizing knockout, knock-in, overexpression, and down-regulation strategies and combinations thereof. Potential users can also give cameo a try at <https://try.cameo.bio>. Cameo has been published in ACS Synthetic Biology (<https://doi.org/10.1021/acssynbio.7b00423>). 74 GitHub stars (<https://github.com/biosustain/cameo>).
+
+
+`optlang`
+Optlang provides a common interface to a series of optimization softwares and relies on the popular symbolic mathematics package sympy for problem formulation (constraints, objectives, variables, etc.)\ and is now an essential part of COBRApy. Optlang has been adopted by researchers in a number of other fields. The tool has been published in the GitHub-based Journal of Open Source Software (<https://doi.org/10.21105/joss.00139>). GitHub stars 106 (<https://github.com/biosustain/optlang>).
+
+## Certifications
+
+`Aug2018-Aug2020`
+Scrum Alliance, Certified Scrum Product Owner (CSPO), Credential ID 933770
+
+## Selected publications
 
 A list is also available here <https://goo.gl/DzH3My>. My name underlined indicates corresponding authorship.
 
